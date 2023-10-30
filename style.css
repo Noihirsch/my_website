@@ -1,0 +1,11 @@
+body 
+{
+    background-image:url("bg.gif");
+    color: white;
+}
+
+.header
+{
+    padding-left: 30%;
+    padding-top: 5%;
+}
